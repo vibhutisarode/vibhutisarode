@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Elegant serif header with rose gradient -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Vibhuti%20Sarode&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Artificial%20Intelligence%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=68&descSize=15&descColor=e8d5f5&stroke=b09cc0&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Vibhuti%20Sarode&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Artificial%20Intelligence%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=68&descSize=15&descColor=e8d5f5&stroke=b09cc0&strokeWidth=1" width="50%"/>
 
 <!-- Elegant typing with serif feel -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&pause=1200&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=Final+Year+AI+Engineering+Student;Building+real-world+ML+systems+from+scratch;Python+%7C+Scikit-learn+%7C+TensorFlow+%7C+AWS;Open+to+Placement+Opportunities+in+AI+%2B+Data+Science)](https://git.io/typing-svg)
