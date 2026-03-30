@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class VibhutiSarode:
@@ -40,11 +40,11 @@ class VibhutiSarode:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,7 +52,7 @@ class VibhutiSarode:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🤖 ML / Data Science
+###  ML / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -60,17 +60,17 @@ class VibhutiSarode:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -81,11 +81,11 @@ class VibhutiSarode:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🌱 Project | 🔧 Tech | 📌 Highlights |
+|  Project |  Tech |  Highlights |
 |-----------|---------|--------------|
 | **[Soil Fertility Prediction](https://datascience-detl.onrender.com/)** | Python, Pandas, Scikit-learn, Flask, Streamlit | ML model on agricultural datasets · Feature engineering · Live dashboard |
 | **Candidate Recommendation System** *(Smart India Hackathon)* | Python, NLP, ML | Automated candidate evaluation · ML scoring · Recruitment efficiency |
@@ -96,22 +96,22 @@ class VibhutiSarode:
 
 ---
 
-## 💼 Internship Experience
+##  Internship Experience
 
 ```
-🔬  AI Research Intern        — IEEE Signal Processing Society (Gujarat Section) | June–July 2025
+  AI Research Intern        — IEEE Signal Processing Society (Gujarat Section) | June–July 2025
      ↳ ML model implementation · Research publications · AI-based solutions
 
-🔬  Research Intern           — Vishwamanthan Research Foundation              | Jan–March 2025
+  Research Intern           — Vishwamanthan Research Foundation              | Jan–March 2025
      ↳ Organised national-level AI research conclave · Leadership in R&D
 
-⚙️  R&D Intern                — Encrypta.in                                     | Sept 2025–Jan 2026
+  R&D Intern                — Encrypta.in                                     | Sept 2025–Jan 2026
      ↳ Emerging tech research · Technical documentation & experimentation
 ```
 
 ---
 
-## 🏆 Leadership & Activities
+##  Leadership & Activities
 
 <div align="center">
 
@@ -121,7 +121,7 @@ class VibhutiSarode:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -136,7 +136,7 @@ class VibhutiSarode:
 
 ---
 
-## 🎯 Career Objective 
+##  Career Objective 
 
 > Motivated **Artificial Intelligence** undergraduate with hands-on experience in **Machine Learning**, **Data Analysis**, and **AWS Cloud** technologies. Seeking opportunities to apply analytical and problem-solving skills to build **scalable, data-driven solutions** in a growth-oriented organization. Experienced in Python, Scikit-learn, TensorFlow, Flask, and React — with a strong track record of **building and deploying real-world AI applications**.
 
@@ -144,7 +144,7 @@ class VibhutiSarode:
 
 <div align="center">
 
-### 📬 Let's Connect!
+###  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhuti-sarode-a0b736281)
 [![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhutisarode00@gmail.com)
@@ -152,7 +152,7 @@ class VibhutiSarode:
 
 <br/>
 
-*"The best way to learn is to build things that actually work."* 🚀
+*"The best way to learn is to build things that actually work."* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
