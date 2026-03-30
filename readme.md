@@ -1,45 +1,36 @@
 Hi, I'm Vibhuti Sarode
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Aspiring+Data+Analyst+%7C+ML+Engineer;AWS+Cloud+Enthusiast;Turning+Data+into+Insights;Building+Real+World+Projects" alt="Typing Animation" />
-👩‍💻 About Me
 
-🎓 Final Year Engineering Student
-📊 Aspiring Data Analyst / Machine Learning Engineer
-☁️ Hands-on with AWS (EC2, S3, VPC)
-🧠 Strong foundation in ML (Decision Trees, Neural Networks, Optimization)
-🚀 Focused on placements & real-world problem solving
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+ML+Engineer;;Turning+Data+into+Insights;Building+Real+World+Projects" alt="Typing Animation" />
 
-💡 I believe in learning by building practical systems, not just theory
+About Me
 
-🧠 Skills & Tech Stack
-🚀 Languages
+Final Year Engineering Student
+Data Analyst / Machine Learning Engineer
+Strong foundation in ML (Decision Trees, Neural Networks, Optimization)
+Focused on placements & real-world problem solving
 
+I believe in learning by building practical systems, not just theory
 
+Tech Stack
 
+Languages
 
-
-
-📊 Data Science & ML
-
+Python 
+JavaScript 
+HTML & CSS 
 
 
+Data Science & ML
 
+NumPy
+Pandas
+Scikit-learn
+Matplotlib
 
+GitHub Stats 
 
-
-
-☁️ Cloud & Tools
-
-
-
-
-
-
-
-
-📊 GitHub Stats (Recruiter Focus)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vibhutisarode&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhutisarode&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutisarode&layout=compact&theme=tokyonight" height="160"/> </p>
-🚀 Featured Projects
-🛒 Shopping Website
+
 
 ✔ Built using JavaScript
 ✔ Focus on UI + functionality
@@ -51,7 +42,7 @@ Hi, I'm Vibhuti Sarode
 ✔ Classification & prediction tasks
 ✔ Data preprocessing + evaluation
 
-🌐 Portfolio Website
+Portfolio Website
 
 ✔ Built using TypeScript
 ✔ Showcases projects & skills
@@ -65,9 +56,6 @@ Hi, I'm Vibhuti Sarode
 
 Motivated engineering student with hands-on experience in Machine Learning, Data Analysis, and AWS Cloud technologies. Seeking opportunities to apply analytical and problem-solving skills to build scalable, data-driven solutions in a growth-oriented organization.
 
-📫 Connect With Me
-💼 LinkedIn: www.linkedin.com/in/vibhuti-sarode-a0b736281 
-📧 Email: vibhutisarode00@gmail.com
-⚡ Fun Fact
-
-💡 I don’t just learn concepts — I implement them into real systems
+Connect With Me
+LinkedIn: www.linkedin.com/in/vibhuti-sarode-a0b736281 
+Email: vibhutisarode00@gmail.com
