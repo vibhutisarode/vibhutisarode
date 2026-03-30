@@ -115,7 +115,7 @@ class VibhutiSarode:
 
 <div align="center">
 
-🎤 **Co-organiser** — TEDx &nbsp;|&nbsp; 🌐 **Public Relations Officer** — GeeksForGeeks &nbsp;|&nbsp; ⚡ **Secretary** — IEEE (Computer Intelligence Society) &nbsp;|&nbsp; 🤖 **Event In-Charge** — AI Club
+ **Co-organiser** — TEDx &nbsp;|&nbsp;  **Public Relations Officer** — GeeksForGeeks &nbsp;|&nbsp;  **Secretary** — IEEE (Computer Intelligence Society) &nbsp;|&nbsp;  **Event In-Charge** — AI Club
 
 </div>
 
