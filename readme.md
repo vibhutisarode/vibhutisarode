@@ -136,7 +136,7 @@ class VibhutiSarode:
 
 ---
 
-## 🎯 Career Objective *(ATS Optimized)*
+## 🎯 Career Objective 
 
 > Motivated **Artificial Intelligence** undergraduate with hands-on experience in **Machine Learning**, **Data Analysis**, and **AWS Cloud** technologies. Seeking opportunities to apply analytical and problem-solving skills to build **scalable, data-driven solutions** in a growth-oriented organization. Experienced in Python, Scikit-learn, TensorFlow, Flask, and React — with a strong track record of **building and deploying real-world AI applications**.
 
