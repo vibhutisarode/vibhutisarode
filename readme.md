@@ -58,7 +58,6 @@ class VibhutiSarode:
 
 ![Python](https://img.shields.io/badge/Python-2d1b3d?style=flat-square&logo=python&logoColor=c084fc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2d1b3d?style=flat-square&logo=javascript&logoColor=c084fc)
-![TypeScript](https://img.shields.io/badge/TypeScript-2d1b3d?style=flat-square&logo=typescript&logoColor=c084fc)
 ![C++](https://img.shields.io/badge/C++-2d1b3d?style=flat-square&logo=c%2B%2B&logoColor=c084fc)
 ![HTML](https://img.shields.io/badge/HTML-2d1b3d?style=flat-square&logo=html5&logoColor=c084fc)
 ![CSS](https://img.shields.io/badge/CSS-2d1b3d?style=flat-square&logo=css3&logoColor=c084fc)
